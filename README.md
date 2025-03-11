@@ -1,7 +1,7 @@
 # ⛽ Optimización en la Explotación Petrolera
 
 ## 🔍 Introducción
-Desarrollar un modelo predictivo para validar los datos recogidos de distintos pozos y proyectar la cantidad de barriles de crudo que ofrece cada uno.  
+Este proyecto busca desarrollar un modelo predictivo para validar los datos recogidos de distintos pozos y proyectar la cantidad de barriles de crudo que ofrece cada uno.  
 
 ## 🎯 Objetivo
 Identificar las regiones con mayor rentabilidad para la explotación petrolera, minimizando riesgos y maximizando beneficios.  
